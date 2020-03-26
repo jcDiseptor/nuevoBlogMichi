@@ -1,1 +1,5 @@
-Este archivo es una prueba para retomar los conocimiento sde git
+Este archivo es una prueba para 
+fortalecer y
+retomar los conocimientos de git
+
+Aquí voy a hacer otra variante
