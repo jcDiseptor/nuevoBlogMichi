@@ -36,3 +36,11 @@ body{
 #container h1{
     font-size: 20px;
 }
+
+#footer
+{
+    background: yellow;
+    color: tomato;
+    padding: 0.5em;
+    text-align: center;
+}
