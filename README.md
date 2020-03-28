@@ -10,6 +10,7 @@ Blog pruebas git, usando el michi
 - Buenas prácticas
 - Herramientas externas
 - Creado por xxxx
+- Ejemplos en diversos SO
 
 :smile: :smile:
 
