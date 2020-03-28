@@ -9,6 +9,7 @@ Blog pruebas git, usando el michi
 - Comandos
 - Buenas prácticas
 - Herramientas externas
+- Creado por xxxx
 
 :smile: :smile:
 
