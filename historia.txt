@@ -18,5 +18,7 @@ Master 1
 
 Master 2
 
+Desde ubuntu con ssh
+
 
 Otro cambio
